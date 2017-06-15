@@ -7,6 +7,9 @@ class first
 public:
 	first();
 	~first();
-	void showMessage();
+	void firstHero(int * at, int * df, int * hl, int * regen, string *name);
+	void secoundHero(int * at, int * df, int * hl, int * regen, string *name);
+	void thirdHero(int * at, int * df, int * hl, int * regen, string *name);
+
 };
 
