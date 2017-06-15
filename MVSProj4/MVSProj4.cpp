@@ -2,10 +2,13 @@
 //
 
 #include "stdafx.h"
-
+#include "first.h"
 
 int main()
 {
+	first fir;
+	fir.showMessage();
+
     return 0;
 }
 
